@@ -15,5 +15,5 @@ aiohttp = "^3.10.10"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
-[tool.poetry.build]
-packages = [{ include = "pyrunware" }]
+[tool.poetry.package]
+include = ["pyrunware"]
