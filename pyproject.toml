@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "runware"
+name = "pyrunware"
 version = "0.1.0"
 description = ""
 authors = ["whynotvoid"]
